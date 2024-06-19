@@ -8,7 +8,6 @@ Welcome to the Emotion Detection project! This project leverages the power of de
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Development](#model-development)
-- [Results](#results)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -72,9 +71,6 @@ The dataset used for this project consists of images categorized into various em
 ### InceptionV3 Model
 - **Model Training leveraging pre-trained weights**
 - **Model Performance Assessment**
-
-## Results
-The results of the trained models are assessed using accuracy, precision, recall, and F1-score. Visualizations such as confusion matrices and ROC curves are also provided to understand the model performance better.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or new features to add, feel free to open a pull request or issue.
